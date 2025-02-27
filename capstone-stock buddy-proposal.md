@@ -1,6 +1,6 @@
-**PROJECT PROPOSAL**
+# PROJECT PROPOSAL
 
-**Stock Buddy**
+### Stock Buddy
 
 This app will assist retail traders by performing the fundamental analysis for them, 
 making it easy to identify what stocks to buy in a bull market or sell short in a bear market.
@@ -9,7 +9,7 @@ making it easy to identify what stocks to buy in a bull market or sell short in 
 quality stocks to buy. This app will assist retail traders by performing the fundamental analysis 
 for them, making it easy to identify what stocks to buy in a bull market or sell short in a bear market.
 
-**Target Users**
+**Target Users** - 
 Retail stock traders. 
 Traders who like a friendly UI and easy to use functionalities.
 Traders who use Robinhood.
